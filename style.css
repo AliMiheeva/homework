@@ -53,8 +53,8 @@ h2
 div
 {
 	background: #DDA0DD;
-	height: 200px;
-	max-width:800px;
+	height:0 auto;
+	max-width:0 auto;
 }
 
 
